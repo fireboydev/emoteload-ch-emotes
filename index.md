@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## EmoteLoad - 表情中國
+### 表情加載   ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[[**CHANGE LANGUAGE 改變語言**]](https://emoteload.ml)
 
-You can use the [editor on GitHub](https://github.com/fireboydev/emoteload-ch-emotes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+🏠 [**Home Page 返回首頁**](https://ch.emoteload.ml/)
+      
+     
+**使用 `*add (代碼)` 命令將表情符號添加到您的服務器。**
+     
+     
+- Winning blob | 代碼: 63297
+ 
+![image](https://media.discordapp.net/attachments/851198408118894592/901087030245728286/winningblob.png)
 
-### Markdown
+- Pepo neutral | 代碼: 18580
+ 
+![image](https://cdn.discordapp.com/attachments/778380099753869336/822437437715382282/1651_peepo_neutral.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Peepo think | 代碼: 74269
+ 
+![image](https://cdn.discordapp.com/attachments/778380099753869336/822439577955467304/PeepoThink.png)
 
-```markdown
-Syntax highlighted code block
+- Cloud Check | 代碼: 74269
+ 
+[![image](https://media.discordapp.net/attachments/778380099753869336/897147820430225428/Cloud_check.png)](https://www.youtube.com/channel/UC0Y7jw648rEq63SctkqL2_A)
 
-# Header 1
-## Header 2
-### Header 3
+- Cloud WiFi | 代碼: 30872
+ 
+[![image](https://media.discordapp.net/attachments/778380099753869336/897149192101842974/Cloud_wifi.png)](https://www.youtube.com/channel/UC0Y7jw648rEq63SctkqL2_A)
 
-- Bulleted
-- List
+- Cloud connect | 代碼: 56325
+ 
+[![image](https://media.discordapp.net/attachments/778380099753869336/897150952686116925/Cloud_connect.png)](https://www.youtube.com/channel/UC0Y7jw648rEq63SctkqL2_A)
+   
+  
+🏠 [**Home Page 返回首頁**](https://ch.emoteload.ml)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### 創始人
+- Davizin128 (創始人)
+- FIRE BOY (創始人)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fireboydev/emoteload-ch-emotes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+© Copyright 版權 EmoteLoad 2021. 版權所有。 [Discord](https://discord.gg/v6Srh9fr) • [Twitter](https://twitter.com/FIREBOYOFC) 
